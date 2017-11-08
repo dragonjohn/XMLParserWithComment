@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Main major="1" minor="0">
+		<Info type="company">
+				<Version>ver2100</Version>
+		</Info>
+		<List>    
+				<!--Comment 1-->
+				<Item type="CompanyList">Google</Item>		
+				<!--Comment 2-->
+				<Item type="CompanyList">MS</Item>		
+				<!--Comment 3-->
+				<Item type="CompanyList">Adobe</Item>	
+</List>
+</Main>
